@@ -15,4 +15,7 @@ staticfiles
 settings_local.py
 .env
 .venv
-
+launch.sh
+captains_log.md
+Pipfile
+templates/band/deleteme.txt
