@@ -16,6 +16,7 @@ settings_local.py
 .env
 .venv
 launch.sh
+splashdown.sh
 captains_log.md
 Pipfile
 templates/band/deleteme.txt
